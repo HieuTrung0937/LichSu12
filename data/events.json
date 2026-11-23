@@ -1,0 +1,434 @@
+{
+  "version": "1.1",
+  "period": "1945-1954",
+  "lastUpdated": "2026-11-20",
+  "events": [
+    {
+      "id": "EVT-001",
+      "title": "Cách mạng Tháng Tám thành công",
+      "date": "1945-08-19",
+      "endDate": "1945-08-28",
+      "location": "Hà Nội và các địa phương trên cả nước",
+      "lane": "vietnam",
+      "category": "political",
+      "tags": ["cach-mang", "1945", "tong-khoi-nghia"],
+      "summary": "Tổng khởi nghĩa giành chính quyền trong cả nước, mở đầu cho sự ra đời của nước Việt Nam Dân chủ Cộng hòa",
+      "basicPoints": [
+        "Diễn ra từ ngày 14 đến 28 tháng 8 năm 1945",
+        "Giành chính quyền ở Hà Nội ngày 19/8/1945",
+        "Là cuộc tổng khởi nghĩa giành độc lập dân tộc",
+        "Mở đường cho việc thành lập nước VNDCCH"
+      ],
+      "analysis": {
+        "nature": "Cuộc cách mạng giải phóng dân tộc dưới sự lãnh đạo của Đảng Cộng sản Đông Dương",
+        "significance": "Chấm dứt chế độ thực dân phong kiến, mở ra kỷ nguyên độc lập tự do",
+        "connections": "Tạo tiền đề chính trị cho cuộc kháng chiến chống Pháp 1946-1954"
+      },
+      "details": {
+        "context": "Tháng 8/1945, phát xít Nhật đầu hàng Đồng minh, thời cơ cách mạng xuất hiện",
+        "causes": [
+          "Sự lãnh đạo sáng suốt của Đảng và Mặt trận Việt Minh",
+          "Khối đại đoàn kết toàn dân tộc",
+          "Thời cơ thuận lợi khi Nhật đầu hàng"
+        ],
+        "development": "Từ ngày 14-28/8/1945, cuộc tổng khởi nghĩa diễn ra trên cả nước, giành chính quyền ở hầu hết các địa phương",
+        "consequences": [
+          "Giành chính quyền trong cả nước",
+          "Chuẩn bị cho Lễ Độc lập 2/9/1945",
+          "Thành lập nước Việt Nam Dân chủ Cộng hòa"
+        ]
+      },
+      "relatedEvents": ["EVT-002"],
+      "references": [
+        {
+          "source": "SGK Lịch sử 12",
+          "page": 45,
+          "url": null
+        }
+      ],
+      "images": [
+        {
+          "filename": "evt-001-main.jpg",
+          "caption": "Quảng trường Ba Đình ngày 19/8/1945",
+          "alt": "Đám đông mít tinh tại Hà Nội",
+          "isVisualAnchor": true
+        }
+      ],
+      "publicationStatus": "approved",
+      "difficulty": "basic"
+    },
+    {
+      "id": "EVT-002",
+      "title": "Tuyên ngôn Độc lập - Khai sinh nước VNDCCH",
+      "date": "1945-09-02",
+      "endDate": null,
+      "location": "Quảng trường Ba Đình, Hà Nội",
+      "lane": "vietnam",
+      "category": "political",
+      "tags": ["doc-lap", "1945", "ho-chi-minh"],
+      "summary": "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa",
+      "basicPoints": [
+        "Ngày 2/9/1945 tại Quảng trường Ba Đình",
+        "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập",
+        "Khai sinh nước Việt Nam Dân chủ Cộng hòa",
+        "Khẳng định quyền độc lập tự do của dân tộc"
+      ],
+      "analysis": {
+        "nature": "Sự kiện chính trị trọng đại, đánh dấu sự ra đời của nhà nước công nông đầu tiên ở Đông Nam Á",
+        "significance": "Khẳng định quyền tự quyết của dân tộc Việt Nam trước thế giới",
+        "connections": "Là cơ sở pháp lý cho cuộc đấu tranh bảo vệ độc lập sau này"
+      },
+      "details": {
+        "context": "Sau thắng lợi của Cách mạng Tháng Tám, cần tuyên bố với thế giới về sự ra đời của nước Việt Nam mới",
+        "causes": [
+          "Yêu cầu cấp thiết của tình hình cách mạng",
+          "Khẳng định chủ quyền quốc gia"
+        ],
+        "development": "Ngày 2/9/1945, Chủ tịch Hồ Chí Minh thay mặt Chính phủ Lâm thời đọc Tuyên ngôn Độc lập trước hàng triệu đồng bào",
+        "consequences": [
+          "Khai sinh nước Việt Nam Dân chủ Cộng hòa",
+          "Thành lập Chính phủ Lâm thời",
+          "Mở ra thời kỳ xây dựng và bảo vệ chính quyền cách mạng"
+        ]
+      },
+      "relatedEvents": ["EVT-001", "EVT-003"],
+      "references": [
+        {
+          "source": "SGK Lịch sử 12",
+          "page": 48,
+          "url": null
+        }
+      ],
+      "images": [
+        {
+          "filename": "evt-002-main.jpg",
+          "caption": "Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập",
+          "alt": "Lễ Độc lập 2/9/1945",
+          "isVisualAnchor": true
+        }
+      ],
+      "publicationStatus": "approved",
+      "difficulty": "basic"
+    },
+    {
+      "id": "EVT-003",
+      "title": "Toàn quốc kháng chiến chống thực dân Pháp",
+      "date": "1946-12-19",
+      "endDate": "1954-07-20",
+      "location": "Trên phạm vi cả nước",
+      "lane": "vietnam",
+      "category": "military",
+      "tags": ["khang-chien", "chong-phap", "1946-1954"],
+      "summary": "Cuộc kháng chiến toàn dân, toàn diện chống thực dân Pháp xâm lược",
+      "basicPoints": [
+        "Bắt đầu từ ngày 19/12/1946",
+        "Thực hiện đường lối kháng chiến toàn dân, toàn diện",
+        "Kéo dài 9 năm (1946-1954)",
+        "Kết thúc bằng chiến thắng Điện Biên Phủ"
+      ],
+      "analysis": {
+        "nature": "Cuộc chiến tranh nhân dân bảo vệ độc lập chủ quyền",
+        "significance": "Đánh bại ý chí xâm lược của thực dân Pháp, buộc Pháp ký Hiệp định Genève",
+        "connections": "Mở đầu cho phong trào giải phóng dân tộc trên thế giới"
+      },
+      "details": {
+        "context": "Thực dân Pháp bội ước, gây hấn ở Hà Nội và các địa phương",
+        "causes": [
+          "Pháp muốn tái xâm lược Việt Nam",
+          "Bảo vệ độc lập chủ quyền vừa giành được"
+        ],
+        "development": "Thực hiện đường lối kháng chiến toàn dân, toàn diện, trường kỳ, dựa vào sức mình là chính",
+        "consequences": [
+          "Giành thắng lợi sau 9 năm kháng chiến",
+          "Buộc Pháp ký Hiệp định Genève 1954",
+          "Miền Bắc được giải phóng"
+        ]
+      },
+      "relatedEvents": ["EVT-002", "EVT-004", "EVT-005", "EVT-006"],
+      "references": [
+        {
+          "source": "SGK Lịch sử 12",
+          "page": 52,
+          "url": null
+        }
+      ],
+      "images": [
+        {
+          "filename": "evt-003-main.jpg",
+          "caption": "Bộ đội ta tiến vào Hà Nội sau 9 năm kháng chiến",
+          "alt": "Kháng chiến chống Pháp",
+          "isVisualAnchor": true
+        }
+      ],
+      "publicationStatus": "approved",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVT-004",
+      "title": "Chiến dịch Việt Bắc Thu - Đông 1947",
+      "date": "1947-10-07",
+      "endDate": "1947-12-19",
+      "location": "Việt Bắc",
+      "lane": "vietnam",
+      "category": "military",
+      "tags": ["viet-bac", "1947", "chien-dich"],
+      "summary": "Chiến dịch phản công đánh bại cuộc hành quân quy mô lớn của Pháp lên Việt Bắc",
+      "basicPoints": [
+        "Diễn ra từ 7/10 đến 19/12/1947",
+        "Pháp huy động 12.000 quân tấn công Việt Bắc",
+        "Quân ta phản công giành thắng lợi",
+        "Buộc Pháp phải rút lui"
+      ],
+      "analysis": {
+        "nature": "Chiến dịch phản công quy mô lớn đầu tiên của cuộc kháng chiến",
+        "significance": "Đánh bại chiến lược 'đánh nhanh thắng nhanh' của Pháp",
+        "connections": "Chuyển cuộc kháng chiến sang giai đoạn trường kỳ"
+      },
+      "details": {
+        "context": "Pháp mở cuộc hành quân lớn nhằm tiêu diệt cơ quan đầu não kháng chiến",
+        "causes": [
+          "Pháp muốn kết thúc chiến tranh nhanh chóng",
+          "Tiêu diệt lực lượng chủ lực của ta"
+        ],
+        "development": "Quân dân Việt Bắc thực hiện 'vườn không nhà trống', phối hợp tác chiến đánh địch",
+        "consequences": [
+          "Loại khỏi vòng chiến đấu 6.000 địch",
+          "Bảo vệ an toàn cơ quan đầu não",
+          "Buộc Pháp chuyển sang đánh lâu dài"
+        ]
+      },
+      "relatedEvents": ["EVT-003"],
+      "references": [
+        {
+          "source": "SGK Lịch sử 12",
+          "page": 55,
+          "url": null
+        }
+      ],
+      "images": [
+        {
+          "filename": "evt-004-main.jpg",
+          "caption": "Bộ đội ta phục kích địch trên đường số 4",
+          "alt": "Chiến dịch Việt Bắc 1947",
+          "isVisualAnchor": true
+        }
+      ],
+      "publicationStatus": "approved",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVT-005",
+      "title": "Chiến dịch Biên Giới Thu - Đông 1950",
+      "date": "1950-09-16",
+      "endDate": "1950-10-14",
+      "location": "Biên giới Việt - Trung",
+      "lane": "vietnam",
+      "category": "military",
+      "tags": ["bien-gioi", "1950", "chien-dich"],
+      "summary": "Chiến dịch tiến công lớn đầu tiên, khai thông đường liên lạc với các nước XHCN",
+      "basicPoints": [
+        "Diễn ra từ 16/9 đến 14/10/1950",
+        "Giải phóng vùng biên giới Việt - Trung",
+        "Khai thông đường liên lạc quốc tế",
+        "Chuyển sang thế chủ động tiến công"
+      ],
+      "analysis": {
+        "nature": "Chiến dịch tiến công quy mô lớn đầu tiên của ta",
+        "significance": "Mở ra bước phát triển mới của cuộc kháng chiến",
+        "connections": "Tạo điều kiện nhận viện trợ quốc tế"
+      },
+      "details": {
+        "context": "Sau thắng lợi của cách mạng Trung Quốc, ta mở chiến dịch lớn",
+        "causes": [
+          "Giải phóng vùng biên giới",
+          "Mở rộng căn cứ địa Việt Bắc",
+          "Khai thông đường liên lạc quốc tế"
+        ],
+        "development": "Tiến công cụm cứ điểm Đông Khê, uy hiếp Thất Khê, Cao Bằng",
+        "consequences": [
+          "Loại khỏi vòng chiến đấu 8.300 địch",
+          "Giải phóng 350.000 dân",
+          "Khai thông đường sang Trung Quốc"
+        ]
+      },
+      "relatedEvents": ["EVT-003", "EVT-006"],
+      "references": [
+        {
+          "source": "SGK Lịch sử 12",
+          "page": 58,
+          "url": null
+        }
+      ],
+      "images": [
+        {
+          "filename": "evt-005-main.jpg",
+          "caption": "Bộ đội ta tiến công cứ điểm Đông Khê",
+          "alt": "Chiến dịch Biên Giới 1950",
+          "isVisualAnchor": true
+        }
+      ],
+      "publicationStatus": "approved",
+      "difficulty": "medium"
+    },
+    {
+      "id": "EVT-006",
+      "title": "Chiến dịch Điện Biên Phủ 1954",
+      "date": "1954-03-13",
+      "endDate": "1954-05-07",
+      "location": "Điện Biên Phủ, Lai Châu",
+      "lane": "vietnam",
+      "category": "military",
+      "tags": ["dien-bien-phu", "1954", "chien-thang"],
+      "summary": "Chiến dịch quân sự quyết định, đánh bại hoàn toàn ý chí xâm lược của Pháp",
+      "basicPoints": [
+        "Diễn ra từ 13/3 đến 7/5/1954",
+        "Kéo dài 55 ngày đêm",
+        "Tiêu diệt toàn bộ tập đoàn cứ điểm Điện Biên Phủ",
+        "Bắt sống tướng De Castries"
+      ],
+      "analysis": {
+        "nature": "Chiến dịch quân sự lớn nhất trong lịch sử kháng chiến chống Pháp",
+        "significance": "Chấn động địa cầu, buộc Pháp ký Hiệp định Genève",
+        "connections": "Kết thúc 9 năm kháng chiến, mở ra thời kỳ mới"
+      },
+      "details": {
+        "context": "Pháp - Mỹ xây dựng Điện Biên Phủ thành tập đoàn cứ điểm mạnh nhất Đông Dương",
+        "causes": [
+          "Tiêu diệt lực lượng tinh nhuệ của địch",
+          "Giải phóng Tây Bắc",
+          "Tạo điều kiện cho đàm phán"
+        ],
+        "development": "Thực hiện phương châm 'đánh nhanh thắng nhanh' chuyển sang 'đánh chắc tiến chắc', 55 ngày đêm chiến đấu",
+        "consequences": [
+          "Loại khỏi vòng chiến đấu 16.200 địch",
+          "Bắt sống chỉ huy De Castries",
+          "Buộc Pháp ký Hiệp định Genève"
+        ]
+      },
+      "relatedEvents": ["EVT-003", "EVT-005", "EVT-007"],
+      "references": [
+        {
+          "source": "SGK Lịch sử 12",
+          "page": 62,
+          "url": null
+        }
+      ],
+      "images": [
+        {
+          "filename": "evt-006-main.jpg",
+          "caption": "Lá cờ Quyết chiến Quyết thắng tung bay trên nóc hầm De Castries",
+          "alt": "Chiến thắng Điện Biên Phủ 1954",
+          "isVisualAnchor": true
+        }
+      ],
+      "publicationStatus": "approved",
+      "difficulty": "hard"
+    },
+    {
+      "id": "EVT-007",
+      "title": "Hiệp định Genève về Đông Dương",
+      "date": "1954-07-20",
+      "endDate": null,
+      "location": "Geneva, Thụy Sĩ",
+      "lane": "vietnam",
+      "category": "political",
+      "tags": ["geneve", "1954", "hiep-dinh"],
+      "summary": "Hiệp định đình chỉ chiến sự, lập lại hòa bình ở Đông Dương",
+      "basicPoints": [
+        "Ký kết ngày 20/7/1954 tại Geneva",
+        "Công nhận độc lập chủ quyền thống nhất toàn vẹn lãnh thổ",
+        "Đình chỉ chiến sự trên toàn Đông Dương",
+        "Quy định tập kết chuyển quân sau 2 năm tổng tuyển cử"
+      ],
+      "analysis": {
+        "nature": "Thắng lợi ngoại giao quan trọng của cuộc kháng chiến",
+        "significance": "Kết thúc 9 năm kháng chiến chống Pháp, miền Bắc được giải phóng",
+        "connections": "Mở ra thời kỳ cách mạng XHCN ở miền Bắc và đấu tranh thống nhất"
+      },
+      "details": {
+        "context": "Sau chiến thắng Điện Biên Phủ, hội nghị quốc tế được triệu tập",
+        "causes": [
+          "Yêu cầu của tình hình mới",
+          "Áp lực từ thắng lợi quân sự"
+        ],
+        "development": "Hội nghị diễn ra từ 8/5 đến 20/7/1954 với sự tham gia của các nước lớn",
+        "consequences": [
+          "Pháp rút quân khỏi miền Bắc",
+          "Miền Bắc được giải phóng",
+          "Tiến tới tổng tuyển cử thống nhất"
+        ]
+      },
+      "relatedEvents": ["EVT-006"],
+      "references": [
+        {
+          "source": "SGK Lịch sử 12",
+          "page": 65,
+          "url": null
+        }
+      ],
+      "images": [
+        {
+          "filename": "evt-007-main.jpg",
+          "caption": "Ký kết Hiệp định Genève",
+          "alt": "Hội nghị Genève 1954",
+          "isVisualAnchor": true
+        }
+      ],
+      "publicationStatus": "approved",
+      "difficulty": "hard"
+    },
+    {
+      "id": "EVT-008",
+      "title": "Chiến tranh thế giới thứ hai kết thúc",
+      "date": "1945-09-02",
+      "endDate": null,
+      "location": "Trên phạm vi toàn thế giới",
+      "lane": "world",
+      "category": "military",
+      "tags": ["the-chien-2", "1945", "ket-thuc"],
+      "summary": "Chiến tranh thế giới thứ hai kết thúc với sự đầu hàng của phát xít Nhật",
+      "basicPoints": [
+        "Đức đầu hàng ngày 9/5/1945",
+        "Nhật đầu hàng ngày 15/8/1945",
+        "Kết thúc ngày 2/9/1945 khi Nhật ký văn kiện đầu hàng",
+        "Mở ra thời kỳ mới trong quan hệ quốc tế"
+      ],
+      "analysis": {
+        "nature": "Cuộc chiến tranh lớn nhất và tàn khốc nhất trong lịch sử nhân loại",
+        "significance": "Thay đổi hoàn toàn bản đồ chính trị thế giới",
+        "connections": "Tạo điều kiện cho phong trào giải phóng dân tộc phát triển"
+      },
+      "details": {
+        "context": "Liên Xô và Đồng minh đánh bại phát xít Đức - Nhật",
+        "causes": [
+          "Sự lớn mạnh của khối Đồng minh",
+          "Thất bại của chủ nghĩa phát xít"
+        ],
+        "development": "Liên Xô tiến công Đức từ phía Đông, Mỹ - Anh từ phía Tây; Nhật đầu hàng sau khi bị ném bom nguyên tử",
+        "consequences": [
+          "Chấm dứt chiến tranh",
+          "Hình thành trật tự thế giới mới",
+          "Tạo điều kiện cho cách mạng Việt Nam"
+        ]
+      },
+      "relatedEvents": ["EVT-001"],
+      "references": [
+        {
+          "source": "SGK Lịch sử 12",
+          "page": 8,
+          "url": null
+        }
+      ],
+      "images": [
+        {
+          "filename": "evt-008-main.jpg",
+          "caption": "Lễ ký kết đầu hàng của Nhật trên tàu Missouri",
+          "alt": "Kết thúc Thế chiến II",
+          "isVisualAnchor": true
+        }
+      ],
+      "publicationStatus": "approved",
+      "difficulty": "basic"
+    }
+  ]
+}

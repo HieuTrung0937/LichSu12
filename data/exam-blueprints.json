@@ -1,0 +1,32 @@
+{
+  "version": "1.1",
+  "examTypes": [
+    {
+      "id": "EXAM-PRACTICE-001",
+      "name": "Bài kiểm tra 15 phút - Tổng quan 1945",
+      "description": "Kiểm tra kiến thức cơ bản về năm 1945",
+      "duration": 15,
+      "blueprint": [
+        {
+          "topic": "Cách mạng Tháng Tám",
+          "period": "1945",
+          "difficulty": "easy",
+          "questionCount": 1,
+          "types": ["multiple-choice"]
+        },
+        {
+          "topic": "Thành lập nước VNDCCH",
+          "period": "1945",
+          "difficulty": "easy",
+          "questionCount": 1,
+          "types": ["true-false"]
+        }
+      ],
+      "shuffleQuestions": true,
+      "shuffleOptions": true,
+      "showExplanation": true,
+      "allowRetake": true,
+      "publicationStatus": "approved"
+    }
+  ]
+}

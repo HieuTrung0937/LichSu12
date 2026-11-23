@@ -1,0 +1,76 @@
+{
+  "version": "1.1",
+  "period": "1945-1954",
+  "lastUpdated": "2026-11-20",
+  "questions": [
+    {
+      "id": "Q-001",
+      "question": "Cách mạng Tháng Tám năm 1945 đã diễn ra trong thời gian nào?",
+      "type": "multiple-choice",
+      "options": [
+        {"id": "A", "text": "Tháng 8/1945"},
+        {"id": "B", "text": "Tháng 9/1945"},
+        {"id": "C", "text": "Tháng 7/1945"},
+        {"id": "D", "text": "Tháng 10/1945"}
+      ],
+      "correctAnswer": "A",
+      "explanation": "Cách mạng Tháng Tám diễn ra từ ngày 14 đến 28/8/1945.",
+      "topic": "Cách mạng Tháng Tám",
+      "period": "1945",
+      "difficulty": "easy",
+      "timelineRef": ["EVT-004"],
+      "publicationStatus": "approved"
+    },
+    {
+      "id": "Q-002",
+      "question": "Nước Việt Nam Dân chủ Cộng hòa ra đời vào ngày 2/9/1945.",
+      "type": "true-false",
+      "correctAnswer": true,
+      "explanation": "Ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập tại Quảng trường Ba Đình.",
+      "topic": "Thành lập nước VNDCCH",
+      "period": "1945",
+      "difficulty": "easy",
+      "timelineRef": ["EVT-005"],
+      "publicationStatus": "approved"
+    },
+    {
+      "id": "Q-003",
+      "question": "Về cuộc kháng chiến chống Pháp (1945-1954), hãy xác định tính đúng/sai của các nhận định sau:",
+      "type": "true-false-multi",
+      "statements": [
+        {"id": "a", "text": "Cuộc kháng chiến bắt đầu từ ngày 19/12/1946.", "correctAnswer": true},
+        {"id": "b", "text": "Chiến dịch Điện Biên Phủ kết thúc vào năm 1953.", "correctAnswer": false},
+        {"id": "c", "text": "Hiệp định Genève được ký kết năm 1954.", "correctAnswer": true},
+        {"id": "d", "text": "Pháp rút quân hoàn toàn khỏi miền Bắc ngay sau chiến thắng.", "correctAnswer": false}
+      ],
+      "explanation": "Điện Biên Phủ kết thúc 7/5/1954. Pháp rút quân sau 300 ngày theo Hiệp định Genève.",
+      "topic": "Kháng chiến chống Pháp",
+      "period": "1945-1954",
+      "difficulty": "medium",
+      "timelineRef": ["EVT-008"],
+      "publicationStatus": "approved"
+    },
+    {
+      "id": "Q-004",
+      "question": "Trình bày các nguyên nhân thắng lợi của cuộc kháng chiến chống Pháp (1945-1954).",
+      "type": "essay-outline",
+      "sampleOutline": {
+        "introduction": "Giới thiệu khái quát về cuộc kháng chiến...",
+        "mainPoints": [
+          "Sự lãnh đạo sáng suốt của Đảng và Chủ tịch Hồ Chí Minh",
+          "Khối đại đoàn kết toàn dân tộc",
+          "Hậu phương vững chắc về mọi mặt",
+          "Sự ủng hộ của quốc tế"
+        ],
+        "conclusion": "Khẳng định ý nghĩa lịch sử..."
+      },
+      "keyPoints": ["Lãnh đạo của Đảng", "Đại đoàn kết dân tộc", "Hậu phương vững chắc", "Ủng hộ quốc tế"],
+      "gradingNote": "Học sinh tự đối chiếu với dàn ý mẫu. Không chấm điểm tự động.",
+      "topic": "Kháng chiến chống Pháp",
+      "period": "1945-1954",
+      "difficulty": "hard",
+      "timelineRef": ["EVT-008"],
+      "publicationStatus": "approved"
+    }
+  ]
+}
